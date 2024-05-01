@@ -1,2 +1,2 @@
-# denis-talks-ml.github.io
+# Denis Talks ML
 Denis' blog about ML stuff.
